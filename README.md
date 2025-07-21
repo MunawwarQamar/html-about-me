@@ -14,7 +14,7 @@ The task is to create a simple HTML page that includes:
 Open `index.html` in any browser.
 
 ## ✅ Status
-📝 In progress
+✔️ Completed
 
 ## 📝 Notes
 Make sure the image is properly linked (local or external), and the HTML is well-structured.
